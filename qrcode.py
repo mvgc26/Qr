@@ -1,6 +1,6 @@
 import qrcode
 
-a = "Hola"
+a = "Holaa"
 
 qr = qrcode.QRCode(version = 1,
                     box_size = 10,
